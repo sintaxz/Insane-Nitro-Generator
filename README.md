@@ -1,8 +1,27 @@
-# Insane-Nitro-Generator
-Hello! This is new discord nitro generator for discord. If you want use it, To generator i added checker for no seraching generator and checker. This tool maked by .Mystic#1020
+# Insane-Nitro-Gen
+![Capture](https://imgur.com/a/c2shzPL)
+FAST AND EASY FOR USE NITRO GENERATOR
 
-Discord server for more tools, methods, hacks and more: 
+If you got any errors join my discord server : .Mystic#1020
 
-Discord: https://discord.gg/Y8HEva63Hj
+or just dm me .Mystic#1020
+------------------------------------
 
-Preview: https://imgur.com/a/c2shzPL
+HOW TO LAUNCH : 
+----------------------------
+
+-Install python : https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe and add it to path
+
+
+-------------------------- 
+-Launch install.bat
+-------------------------
+   
+-Launch start.bat
+
+
+/// If you can't start whith python download visual studio code and in visual studio code run it whith phyton.
+
+/// Download visual studio link:
+
+/// https://code.visualstudio.com/
